@@ -1,0 +1,31 @@
+.common-heading{
+  margin-bottom: 3.2rem;
+  font-size: 30px;
+}
+.card{
+  
+    box-shadow: 3px 3px 3px rgb(130, 134, 136);
+
+}
+img{
+  width: 100%;
+}
+.card-content{
+  padding: 1.2rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  align-items: self-start;
+}
+.super-hit{
+  background-color: rgb(11, 247, 62);
+}
+
+.average{
+  background-color: yellow;
+}
+.rating{
+  padding: 5px 20px;
+  border-radius: 80px;
+  margin-left: 10px;
+}
