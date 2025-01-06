@@ -47,6 +47,8 @@ const genera = () => {
     */
   const Cardone = () => {
 
+  
+
  return(
   <ul className="grid grid-three--cols">
     {seriesData.map((curElem)=>{

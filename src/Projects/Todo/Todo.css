@@ -1,0 +1,94 @@
+.todosinput{
+  background-color: white;
+  height: 30px;
+  padding-left: 10px;
+  height:35px;
+
+}
+.but{
+  width: 80px;
+  height: 35px;
+  color: rgb(250, 250, 250);
+  background-color: blue;
+  
+
+}
+.clearall{
+  width: 80px;
+  height: 30px;
+  color: rgb(250, 250, 250);
+  background-color: rgb(156, 3, 36);
+  margin-top: 20px;
+}
+.common-heading{
+  color: white;
+  font-family: serif;
+  font-size: 80px;
+}
+h1{
+  color: white;
+  padding-bottom: 10px;
+}
+
+.Todoform{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 50px;
+}
+
+ul li{
+  width: 300px;
+  height: 50px;
+  background-color: white;
+  border-radius: 50px;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+
+.deletebutton{
+  color: white;
+  background-color: red;
+  border-radius: 100%;
+  padding: 5px;
+
+}
+.checkbutton{
+  color: white;
+  background-color: green;
+  border-radius: 100%;
+  padding: 5px;
+
+}
+
+  
+
+.checklist {
+  text-decoration: line-through;
+}
+.notchecklist{
+  text-decoration: none;
+}
+
+/* This is my Calculator project */
+
+.divv{
+  width: 100%;
+  height: 100%;
+  padding-top: 100px;
+  background-color: brown;
+}
+
+
+/* This is my Calculator project end */

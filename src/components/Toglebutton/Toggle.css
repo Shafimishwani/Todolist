@@ -1,0 +1,42 @@
+.main{
+  width: 100px;
+  height: 50px;
+  border-radius: 50px;
+  background-color: rgb(143, 139, 139);
+  position: absolute;
+  cursor: pointer;
+ 
+}
+.chiled{
+  position: relative;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 30px;
+  height: 30px;
+  background-color: aliceblue;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: white;
+  border: 1px solid white;
+
+}
+
+.onn{
+  background-color: green;
+  transform: translateX(50px);
+}
+
+.offf{
+  background-color: red;
+  transform: translateX(0px);
+
+}
+.green{
+  background-color: green;
+}
+.red{
+  background-color: red;
+}
